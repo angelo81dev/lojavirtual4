@@ -6,6 +6,7 @@ h1 {
     color: blueviolet;
 }
 li {
-    color: #FFF;
-    font-size: 14px;
+    margin-left: 5px;
+    font-size: 15px;
+    color: brown;
 }
