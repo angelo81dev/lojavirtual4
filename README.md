@@ -1,1 +1,2 @@
-# lojavirtual4
+A vida é luta do que dança.
+A vaca não dá leite.
