@@ -10,3 +10,9 @@ li {
     font-size: 15px;
     color: brown;
 }
+div {
+    background-color: aquamarine;
+}
+body {
+    margin: auto;
+}
