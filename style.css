@@ -16,3 +16,8 @@ div {
 body {
     margin: auto;
 }
+div li {
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gold;
+}
